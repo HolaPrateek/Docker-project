@@ -37,8 +37,8 @@ In your terminal run the following commands-
 ```
 Now you have to write as following in your docker repo-
 
-  ![docker_repo.png]
-  
+![](docker_repo.png)
+
 Congratulation! your docker repo has been configured. 
 
 **Requirements/Installation**
