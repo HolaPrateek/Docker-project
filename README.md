@@ -52,3 +52,5 @@ dnf install docker-ce
 ### About Project
 
 This project works on Nginx engine. User will commit this project in his prefferable location and by using `docker-compose up`.Nginx engine will be initialize and now user can access the page by using the ip_address of the host system.
+
+**for further details contact-** prateekgupta7500@gmail.com
