@@ -1,6 +1,6 @@
 FROM debian:stretch-slim
 
-MAINTAINER Phillip Bailey <phillip@bailey.st>
+MAINTAINER Prateek Gupta <prateekgupta7500@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
